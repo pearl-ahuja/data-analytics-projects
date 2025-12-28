@@ -17,4 +17,5 @@ This project analyzes Netflix content data to identify trends across genres, cou
 
 ## Dashboard
 Pdf of the interactive dashboard are provided above.
+Note: The dashboard was built in Power BI. Interactive features such as filters and slicers are visible in the original file.
 
