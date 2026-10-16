@@ -19,7 +19,7 @@ Examines late deliveries, dispatch delays, order processing time, shipping durat
 ### 3. Product Ratings
 Explores review volume, average review score, five-star reviews, low ratings, and category-level rating patterns.
 
-![Product Ratings](product_ratings.png)
+![Product Rating](product_rating.png)
 
 ## Features
 
