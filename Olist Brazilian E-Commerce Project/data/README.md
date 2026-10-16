@@ -1,23 +1,27 @@
 # Dataset Information
 
+## Dataset
+
+This project uses the Olist Brazilian E-Commerce dataset, containing information about orders, customers, products, sellers, payments, reviews, and geolocation.
+
 ## Source
 
-This project uses the Olist Brazilian E-Commerce dataset, a public dataset containing e-commerce order and transaction information.
+The original dataset was obtained from a public dataset source.
 
-The dataset includes information related to customers, orders, products, sellers, payments, reviews, and geolocation.
+**Dataset link:** [Add the original dataset URL here]
 
 ## Data Preparation
 
-The original datasets were profiled and cleaned using Microsoft Excel and Power Query before being imported into MySQL for analysis.
+The original CSV files were profiled and cleaned using Microsoft Excel and Power Query. The prepared datasets were then imported into MySQL for validation and analysis.
 
-Cleaning decisions were made based on the context of each field rather than automatically replacing or deleting all missing and unusual values.
+The data preparation process and table definitions are documented in [`01_Data_Preparation`](../01_Data_Preparation/).
 
-## Data Availability
+## Files in This Repository
 
-The raw and cleaned CSV files are maintained separately during project development. To avoid unnecessarily duplicating large datasets in this repository, the complete data files may not be included here.
+The raw and cleaned CSV files are maintained locally and are not included in this repository to avoid duplicating large datasets.
 
-Please refer to the original dataset source used for this project when accessing the underlying data.
+To reproduce the analysis, obtain the dataset from the original source and follow the preparation and SQL documentation.
 
 ## Notes
 
-The data is used for educational and portfolio analysis. Results depend on the dataset version, cleaning decisions, and metric definitions.
+Missing and unusual values were investigated in context. Values were not automatically replaced or deleted without considering their meaning.
