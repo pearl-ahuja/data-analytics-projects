@@ -9,11 +9,17 @@ This dashboard presents an interactive analysis of Olist Brazilian E-Commerce da
 ### 1. Main Dashboard
 Provides a high-level view of revenue, order volume, average order value, customer count, monthly sales trends, and product category performance.
 
+![Main Dashboard](main_dashboard.png)
+
 ### 2. Delivery Performance
 Examines late deliveries, dispatch delays, order processing time, shipping duration, and delivery duration.
 
+![Delivery Performance](delivery_performance.png)
+
 ### 3. Product Ratings
 Explores review volume, average review score, five-star reviews, low ratings, and category-level rating patterns.
+
+![Product Ratings](product_ratings.png)
 
 ## Features
 
