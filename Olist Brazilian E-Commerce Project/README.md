@@ -2,6 +2,17 @@
 
 An end-to-end data analytics project exploring Brazilian e-commerce order data to understand sales performance, customer behavior, delivery efficiency, and customer satisfaction.
 
+## Dashboard Preview
+
+Explore the three-page Power BI dashboard covering sales performance, delivery operations, and customer ratings.
+
+### Main Dashboard
+![Main Dashboard](03_PowerBI_Dashboard/main_dashboard.png)
+
+[View the complete dashboard PDF](03_PowerBI_Dashboard/olist_dashboard.pdf)
+
+[Explore the Power BI dashboard folder](03_PowerBI_Dashboard/)
+
 ## Project Overview
 
 This project analyzes the Olist Brazilian E-Commerce dataset using Excel, MySQL, and Power BI. The workflow covers data profiling and cleaning, SQL-based analysis, and interactive dashboard development.
