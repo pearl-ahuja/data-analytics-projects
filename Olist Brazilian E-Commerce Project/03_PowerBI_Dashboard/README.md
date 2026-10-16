@@ -30,7 +30,7 @@ Explores review volume, average review score, five-star reviews, low ratings, an
 
 ## Files
 
-- `olist_dashboard.pdf` — Exported dashboard preview.
+- [View the dashboard PDF](olist_dashboard.pdf) — Exported dashboard preview.
 
 The editable `.pbix` file is not included in the current repository upload.
 
